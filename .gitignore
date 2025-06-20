@@ -23,3 +23,24 @@ package-lock.json
 !.vscode/tasks.json
 
 # Misc
+.DS_Store
+
+.vscode/*.code-workspace
+
+*.log
+*.tmp
+*.swp
+*.swo
+*~
+
+Thumbs.db
+ehthumbs.db
+
+.rbenv-version
+.rvmrc
+.ruby-version
+
+.env
+.env.*
+
+.sass-cache
